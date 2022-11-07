@@ -1,4 +1,5 @@
 "ByDexter"
 {
 	"sm_ungag"{}
+	"sm_help"{}
 }
